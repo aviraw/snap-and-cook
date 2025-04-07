@@ -1,0 +1,12 @@
+# Node
+node_modules/
+
+# Build
+build/
+dist/
+
+# Environment Variables
+.env
+
+# Firebase local emulator files
+firebase-debug.log
